@@ -1,0 +1,11 @@
+Solution 19 : 
+1 : [1, 2] Total Time=(7), dif=0.33 
+2 : [3, 4] Total Time=(7), dif=0.33 
+3 : [5, 6, 7, 8] Total Time=(6), dif=0.67 
+Total Time = 20 
+Total_Time/Steps = 6.67 
+Total differences = 1.33 
+Average differences = 2.33 
+Max Time = 7 
+Min Time = 6 
+ ---------------------------------------------------------------------------- 
