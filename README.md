@@ -20,8 +20,8 @@
         `suliman-99`,
         `suliman-awad-399a471b8`,
         `sulimanawadstudy@gmail.com`,
-        `open-source-projects-template`,
-        `Open Source Projects Template`,
+        `Production-lines`,
+        `Production lines`,
 -->
 [![repo-size][repo-size-shield]][repo-url]
 [![forks][forks-shield]][forks-url]
@@ -34,7 +34,7 @@
 
 
 <div align="center">
-<h3>Open Source Projects Template</h3>
+<h3>Production lines</h3>
 
 [View Demo][demo-url]
     ·
@@ -67,66 +67,31 @@
 
 ## Introduction
 
-this is a tamplate for the open source porjects
+This is a small algorithm applied by python and it gives optimal solution for production lines problems
 
 ## Features
 
-### Example: 
-
-A few of the things you can do with GitPoint:
-
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+* Generate all the Valid Solutions
+* Give the Optimal Solution
+* Fast and Good complixity Algorithm
+* clean and hight Quality Code with Type annotations
 
 ## Tech Stack
 
 * [![python][python-shield]][python-url]
-* [![django][django-shield]][django-url]
-* [![mysql][mysql-shield]][mysql-url]
-* [![postgresql][postgresql-shield]][postgresql-url]
-* [![restful-api][restful-api-shield]][restful-api-url]
-* [![postman][postman-shield]][postman-url]
 * [![git][git-shield]][git-url]
 * [![github][github-shield]][github-url]
-* [![gitlab][gitlab-shield]][gitlab-url]
 * [![markdown][markdown-shield]][markdown-url]
-* [![dart][dart-shield]][dart-url]
-* [![flutter][flutter-shield]][flutter-url]
-* [![firebase][firebase-shield]][firebase-url]
-* [![html5][html5-shield]][html5-url]
-* [![css3][css3-shield]][css3-url]
-* [![bootstrap][bootstrap-shield]][bootstrap-url]
 * [![vscode][vscode-shield]][vscode-url]
-* [![staruml][staruml-shield]][staruml-url]
-* [![c++][c++-shield]][c++-url]
-* [![java][java-shield]][java-url]
-* [![aws][aws-shield]][aws-url]
-* [![jwt][jwt-shield]][jwt-url]
-* [![oauth][oauth-shield]][oauth-url]
-* [![microservices][microservices-shield]][microservices-url]
 
 ## Getting Started
 
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-### Example: 
 
 Make sure you have installed all of the following prerequisites on your development machine:
 * Git - [Download & Install Git][git-downloads-url]. OSX and Linux machines typically have this already installed.
 * Python - [Download & Install Python][python-downloads-url]
-* MongoDB - [Download & Install MongoDB](http://www.mongodb.org/downloads), and make sure it's running on the default port (27017).
-
 * pipenv module:
 
     after you install python you will have pip installed on your machin automatically
@@ -151,7 +116,7 @@ git init:
 
 2- Pull the the project into your repo:
 ```
-git pull https://github.com/suliman-99/open-source-projects-template.git
+git pull https://github.com/suliman-99/Production-lines.git
 ```
 
 enjoy it!
@@ -159,61 +124,26 @@ enjoy it!
 
 ### Usage
 
-This Repo is used as a template for the open source projects
-just make a copy of it and change the commented keywords in the first of the file
+You can use it as a black box
+write the tasks times in the "tasks.txt" file
+write the tasks relations in "tasks_links.txt" file
 
-Use this space to show useful examples of how a project can be used. Additional photos, code examples and demos work well in this space. You may also link to more resources.
+And you can optimize the code and use it in another ways ^_^  
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-## Explanation
-
-Listing:
-* first
-* seond
-* third
-
-some description...
-
-To do something we use [Topic Name](Tobic explanation link):
-```
-    some code
-```
-Another Topic [Topic2 Name](Tobic2 explanation link) 
-
-some description :
-```
-    some code
-    some code
-    some code
-```
 
 ## Project stucture
-```
-Project Name
-│   README.md
-└───folder1
-│   │   file11
-│   │
-│   └───folder11
-|       |   file111
-|       |   file112
-│   
-└───folder2
-    │   file21
-    │   file22
-```
 
-- `folder path` some description
-- `file path` some description
+- `main.py` Code file
+- `tasks.txt` file contains the tasks times
+- `tasks_links.txt` file contains the tasks relations
+- ` all_results_steps.txt` the code will write all the valid Solutions in this file
+- `tasks_links.txt` the code will write all the Optimal Solution in this file
 
 
 
 ## Contributing
 
-If you have suggestions for how Open Source Projects Template could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
+If you have suggestions for how Production lines could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
 
 For more, check out the [Contributing Guide][contributing-url].
 
@@ -222,20 +152,8 @@ For more, check out the [Contributing Guide][contributing-url].
 
 Suliman Awad - [sulimanawadstudy@gmail.com][gmail-url] - [Linkedin][linkedin-account-url]
 
-Project Link: [https://github.com/suliman-99/open-source-projects-template][repo-url]
+Project Link: [https://github.com/suliman-99/Production-lines][repo-url]
 
-
-
-## Teammates
-
-* [Display Name](https://github.com/username)
-* [Display Name 2](https://github.com/username2)
-
-
-## Acknowledgments
-
-* [Display Name](https://github.com/username)
-* [Display Name 2](https://github.com/username2)
 
 ## License
 
@@ -259,15 +177,15 @@ For more, check out the [License File][license-url].
 
 
 <!-- repo urls -->
-[repo-url]: https://github.com/suliman-99/open-source-projects-template
-[contributors-url]: https://github.com/suliman-99/open-source-projects-template/graphs/contributors
-[forks-url]: https://github.com/suliman-99/open-source-projects-template/network/members
-[stars-url]: https://github.com/suliman-99/open-source-projects-template/stargazers
-[issues-url]: https://github.com/suliman-99/open-source-projects-template/issues
+[repo-url]: https://github.com/suliman-99/Production-lines
+[contributors-url]: https://github.com/suliman-99/Production-lines/graphs/contributors
+[forks-url]: https://github.com/suliman-99/Production-lines/network/members
+[stars-url]: https://github.com/suliman-99/Production-lines/stargazers
+[issues-url]: https://github.com/suliman-99/Production-lines/issues
 [license-url]: ./LICENSE
 [contributing-url]: ./CONTRIBUTING.md
 [photo-url]: ./photo.png
-[demo-url]: https://github.com/suliman-99/open-source-projects-template
+[demo-url]: https://github.com/suliman-99/Production-lines
 
 
 <!-- static urls -->
@@ -315,14 +233,14 @@ For more, check out the [License File][license-url].
 
 
 <!-- repo shields -->
-[repo-size-shield]: https://img.shields.io/github/repo-size/suliman-99/open-source-projects-template.svg?label=Repo%20size&style=flat-square
-[forks-shield]: https://img.shields.io/github/forks/suliman-99/open-source-projects-template.svg?&style=flat-square
-[stars-shield]: https://img.shields.io/github/stars/suliman-99/open-source-projects-template.svg?&style=flat-square
-[issues-shield]: https://img.shields.io/github/issues/suliman-99/open-source-projects-template.svg?&style=flat-square
-[contributors-shield]: https://img.shields.io/github/contributors/suliman-99/open-source-projects-template.svg?&style=flat-square
+[repo-size-shield]: https://img.shields.io/github/repo-size/suliman-99/Production-lines.svg?label=Repo%20size&style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/suliman-99/Production-lines.svg?&style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/suliman-99/Production-lines.svg?&style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/suliman-99/Production-lines.svg?&style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/suliman-99/Production-lines.svg?&style=flat-square
 [pr-shield]: https://img.shields.io/badge/PR-Welcome-333333?color=0055bb&style=flat-square
-[hachtoberfest-shield]: https://img.shields.io/github/hacktoberfest/2022/suliman-99/open-source-projects-template
-[license-shield]: https://img.shields.io/github/license/suliman-99/open-source-projects-template.svg?&style=flat-square
+[hachtoberfest-shield]: https://img.shields.io/github/hacktoberfest/2022/suliman-99/Production-lines
+[license-shield]: https://img.shields.io/github/license/suliman-99/Production-lines.svg?&style=flat-square
 
 
 <!-- static shields -->

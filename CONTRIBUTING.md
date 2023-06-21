@@ -13,11 +13,11 @@
 <!-- 
     Do a search and replace with your text editor for the following: 
         `sulimanawadstudy@gmail.com`,
-        `Open Source Projects Template`,
+        `Production lines`,
 -->
-# Contributing to Open Source Projects Template
+# Contributing to Production lines
 
-Thank you for your interest in contributing to Open Source Projects Template We welcome contributions from anyone, regardless of their level of experience or expertise.
+Thank you for your interest in contributing to Production lines We welcome contributions from anyone, regardless of their level of experience or expertise.
 
 ## Getting Started
 
@@ -44,7 +44,7 @@ We expect all contributors to adhere to our code of conduct, which can be found 
 
 ## Contact
 
-If you have any questions or concerns about contributing to Open Source Projects Template, please contact us at sulimanawadstudy@gmail.com. Thank you for your contributions!
+If you have any questions or concerns about contributing to Production lines, please contact us at sulimanawadstudy@gmail.com. Thank you for your contributions!
 
 
 
